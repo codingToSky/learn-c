@@ -1,0 +1,3 @@
+https://github.com/forezp/SpringBootLearning
+
+https://github.com/forezp/SpringBootLearning/tree/master/sharding-jdbc-example/sharding-jdbc-db-ms-tbl

@@ -1,3 +1,12 @@
 https://github.com/forezp/SpringBootLearning
 
 https://github.com/forezp/SpringBootLearning/tree/master/sharding-jdbc-example/sharding-jdbc-db-ms-tbl
+
+
+https://github.com/sunnysabor/script-java/tree/release/sharding_jdbc
+
+https://blog.csdn.net/qq_33774822/article/details/102560347
+
+https://blog.csdn.net/chang_harry/article/details/105436019
+
+https://shardingsphere.apache.org/document/current/cn/downloads/
